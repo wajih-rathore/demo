@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/uc?export=view&id=1rSLJQ8hAxevTKFBkyP2EmoOhR8zj3TR9)]
+![MasterHead](https://drive.google.com/uc?export=view&id=1rSLJQ8hAxevTKFBkyP2EmoOhR8zj3TR9)
 
 
 
