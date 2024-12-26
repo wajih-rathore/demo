@@ -1,4 +1,4 @@
-[![MasterHead](C:\Users\hp\Downloads\github-header-image (1).png)](https://wajih-rathore.io)
+[![MasterHead]("https://drive.google.com/file/d/1rSLJQ8hAxevTKFBkyP2EmoOhR8zj3TR9/view?usp=sharing")](https://wajih-rathore.io)
 
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Wajih
